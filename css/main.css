@@ -50,7 +50,7 @@ a {
 }
 
 .main-banner .main-head {
-  font-size: 70px;
+  font-size: 60px;
   font-family: "Staatliches", cursive;
   color: white;
   text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
@@ -119,8 +119,8 @@ a {
  
 .more-skills {
   margin: 50px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 70px;
+  margin-right: 70px;
   font-family: "Noto Sans JP", sans-serif;
 }
 
